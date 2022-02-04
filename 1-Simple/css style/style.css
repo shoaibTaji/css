@@ -1,0 +1,11 @@
+/* style for tag="h1,h2,h3,..." */
+.heading{
+    color: #7ccac8;
+}
+/* style for tag="hr" */
+hr{
+    border: dotted;
+    border-bottom: none;
+    width: 100px;
+    color: lightblue;
+}
